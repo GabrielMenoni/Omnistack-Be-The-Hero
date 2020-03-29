@@ -1,0 +1,2 @@
+To acess the mobile files go to:
+https://github.com/GabrielMenoni/BeTheHero-Mobile.git
